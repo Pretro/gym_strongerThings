@@ -393,11 +393,17 @@ h4 {
     z-index: -1;
 }
 
+/*all products section*/
 .row {
     background: black;
 }
 
 .pt-5,
 .py-5 {
-    padding-top: 25rem !important;
+    padding-top: 6rem !important;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20%;
 }
