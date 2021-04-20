@@ -646,14 +646,14 @@
         "pk": 47,
         "model": "products.product",
         "fields": {
-            "sku": "9877-1.MASTER",
-            "name": "The Curse Skull Shaker, 700 ml",
-            "description": "Incredibly cool shaker from JNX Sports that holds a larger amount of liquid.",
-            "price": 18.16,
+            "sku": "500620.MASTER",
+            "name": "BlenderBottle Radian Insulated Stainless Steel, 770ml, Natural/Black",
+            "description": "Safest shaker now In stainless steel You get a good and lump-free shake every time. With its double walls, keeps your drink chilled for up to 24 hours without condensation on the bottle.",
+            "price": 19.96,
             "category": 10,
             "rating": 5,
             "image_url": "",
-            "image": "9877-1.MASTER_JNX-Sports_The-Curse-Skull-Shaker-700ml_01_april20.jpg"
+            "image": "500620_blenderbottle_radian_insulated_stainless_steel_770ml_natural_black_1.jpg"
         }
     },
     {

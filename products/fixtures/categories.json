@@ -74,8 +74,8 @@
         "pk": 10,
         "model": "products.category",
         "fields": {
-            "name": "shakers",
-            "friendly_name": "Shakers"
+            "name": "water_bottles",
+            "friendly_name": "Water Bottles"
         }
     }
 ]

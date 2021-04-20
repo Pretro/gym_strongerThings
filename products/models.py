@@ -6,7 +6,7 @@ class Category(models.Model):
     friendly_name = models.CharField(max_length=254, blank=True)
 
     class Meta:
-        verbose_name_plural = 'categories'
+        verbose_name_plural = 'Categories'
 
     def __str__(self):
         return self.name
@@ -26,9 +26,6 @@ class Product(models.Model):
         max_digits=6, decimal_places=2, blank=True)
     image_url = models.URLField(max_length=1024, blank=True)
     image = models.ImageField(blank=True)
-
-    class Meta:
-        verbose_name_plural = 'Products'
 
     def __str__(self):
         return self.name
