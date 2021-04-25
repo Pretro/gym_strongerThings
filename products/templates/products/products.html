@@ -13,12 +13,17 @@
                         <img class="img-fluid" alt="No image found" src="{{ product.image.url }}">
                         <div class="card-body">
                             <p class="mb-0">{{product.name}}</p>
-                            <div class="col">
-                                <p class="lead mb-0 text-left font-weight-bold">${{ product.price }}</p>
-                            </div>
+                            <hr>
+
+                            <button data-product="{{product.id}}" data-action="add"
+                                class="btn btn-outline-secondary add-btn update-cart">Add to Cart</button>
+
+                            <a class="btn btn-outline-success" href="{% url 'product-detail' pk=product.pk  %}">View</a>
+                            <h4 style="display: inline-block"><strong>${{product.price}}</strong></h4>
                         </div>
                     </div>
                 </div>
+
                 {% endfor %}
             </div>
         </div>

@@ -216,6 +216,7 @@ p {
     margin: 30px;
 }
 
+
 .small-container .card .box {
     position: absolute;
     top: 20px;
@@ -382,7 +383,6 @@ h4 {
     background: black;
 }
 
-
 .overlay {
     height: 100%;
     width: 100%;
@@ -402,8 +402,44 @@ h4 {
 .py-5 {
     padding-top: 6rem !important;
 }
-.img-fluid{
+
+.img-fluid {
     max-width: 100%;
     height: auto;
     border-radius: 20%;
+}
+
+.lead {
+    margin-left: -15px;
+}
+
+.lead-2 {
+    margin-left: 1px;
+}
+
+/*Single Product Page*/
+.imagenes {
+    width: 440px;
+    height: 360px;
+}
+
+.container-2 {
+    padding: 89px;
+}
+
+.descrip {
+    margin: -5px 0 0 -90px;
+}
+
+.mt-3,
+.my-3 {
+    margin-top: 9rem !important;
+}
+
+.nombre {
+    margin-top: 0px;
+}
+
+.des {
+    margin-top: 4rem !important;
 }

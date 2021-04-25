@@ -129,7 +129,7 @@
         "model": "products.product",
         "fields": {
             "sku": "42-17R",
-            "name": "Super Meal, 1000 g Supermass Nutrition",
+            "name": "Super Meal, Supermass Nutrition",
             "description": "Pro-Meal - An innovative meal replacement with a cruel taste and excellent nutritional values from Supermass Nutrition !. A tasty and simple alternative with excellent nutritional value when you have no time or desire to cook a whole meal. Developed especially for athletes: the product ensures that your body gets all the ingredients it needs for optimal recovery and development!.",
             "price": 30.02,
             "category": 1,
@@ -255,7 +255,7 @@
         "model": "products.product",
         "fields": {
             "sku": "SETDELTAGROW",
-            "name": "Delta Growth Pack (Creatine, Gainer, Alpha Booster)",
+            "name": "Delta Growth Pack (Creatine)",
             "description": "Delta Growth Pack contains Creatine, Gainer and Alpha Booster to optimize your training!",
             "price": 60.31,
             "category": 4,
@@ -269,7 +269,7 @@
         "model": "products.product",
         "fields": {
             "sku": "SETDELTAGROW",
-            "name": "24 x Star Nutrition Amino Energy, 330 ml, Mixed Flavours",
+            "name": "24 x Star Nutrition Amino 330 ml",
             "description": "Mix your own favorites at Star Nutrition Amino Energy! You can choose between 3 different flavors. Carbonated drinks with amino acids and caffeine are popular products - with every right. They taste good, liven up and are a convenient way to absorb amino acids during the day.",
             "price": 30.02,
             "category": 4,
@@ -619,7 +619,7 @@
         "model": "products.product",
         "fields": {
             "sku": "NDR-843-1R",
-            "name": "Meditation/breastfeeding pillow Maxi",
+            "name": "Meditation pillow Maxi",
             "description": "Meditation pillow Maxi from Nytta Design - A relaxation pillow in 100% eco-cotton. This bean-shaped model is perfect for meditation.",
             "price": 44.62,
             "category": 9,
