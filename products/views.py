@@ -1,5 +1,5 @@
 from django.shortcuts import get_object_or_404, render
-from .models import Product
+from .models import Product, Category
 from django.views.generic.detail import DetailView
 from django.db.models import Q
 
@@ -33,3 +33,8 @@ def all_products(request):
     }
 
     return render(request, 'products/products.html', context)
+
+
+def Product_category(request):
+
+    return render(request, 'products/product_categories.html')
